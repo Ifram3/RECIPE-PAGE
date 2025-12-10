@@ -43,7 +43,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ```css
 .label {
-    flex: 0 0 100px;
+    flex: 0 0 6.25rem;
 }
 
 .value {
